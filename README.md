@@ -2,4 +2,6 @@
 
 *Hello World!*
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrbcfKQ5WHfPh1sf?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+
+<style>.embed-container {position: relative; padding-bottom: 120%; height: 0; overflow: hidden;} .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='airtable-embed'><iframe src='https://airtable.com/embed/shrbcfKQ5WHfPh1sf?backgroundColor=blue' frameborder='0' scrolling='yes' allowtransparency='true'></iframe></div>
